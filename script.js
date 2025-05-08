@@ -23,7 +23,7 @@ const colors = ["red", "blue", "green", "purple", "orange"];
 const bgColors = ["yellow", "lightgray", "lightblue", "lightgreen", "pink"];
 let colorIdx = 0;
 let bgColorIdx = 0;
-const images = ["./img.jpg"];
+const images = ["./img.jpg", "./img2.png", "./img3.png"];
 let imageIdx = 0;
 
 const msgEl = document.getElementById("message");
