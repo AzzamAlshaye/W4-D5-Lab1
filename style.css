@@ -1,0 +1,18 @@
+#message {
+  padding: 10px;
+  font-size: 16px;
+  transition: all 0.2s;
+}
+#toggleImage {
+  display: block;
+  margin-top: 20px;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  font-size: 14px;
+}
